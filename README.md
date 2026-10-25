@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Hybrid-Mobile-App-Development-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Hybrid-Mobile-App-Development-Framework?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Hybrid-Mobile-App-Development-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Hybrid-Mobile-App-Development-Framework?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Hybrid-Mobile-App-Development-Framework/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Hybrid-Mobile-App-Development-Framework?style=flat-square&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Hybrid-Mobile-App-Development-Framework/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Hybrid-Mobile-App-Development-Framework/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
@@ -82,7 +82,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 *Ranked in descending order by GitHub repository stargazers count:*
 
-### 1. ⚡ [Flutter](https://flutter.dev/) [![GitHub stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers)
+### 1. ⚡ [Flutter](https://flutter.dev/) [![GitHub_Stars](https://img.shields.io/github/stars/flutter/flutter?style=social&color=white)](https://github.com/flutter/flutter/stargazers)
 
 - **Repository**: [`flutter/flutter`](https://github.com/flutter/flutter)
 - **License**: BSD-3-Clause
@@ -97,7 +97,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 2. ⚛️ [React Native](https://reactnative.dev/) [![GitHub stars](https://img.shields.io/github/stars/facebook/react-native?style=social&color=white)](https://github.com/facebook/react-native/stargazers)
+### 2. ⚛️ [React Native](https://reactnative.dev/) [![GitHub_Stars](https://img.shields.io/github/stars/facebook/react-native?style=social&color=white)](https://github.com/facebook/react-native/stargazers)
 
 - **Repository**: [`facebook/react-native`](https://github.com/facebook/react-native)
 - **License**: MIT
@@ -112,7 +112,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 3. 🦀 [Tauri Mobile](https://tauri.app/) [![GitHub stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=social&color=white)](https://github.com/tauri-apps/tauri/stargazers)
+### 3. 🦀 [Tauri Mobile](https://tauri.app/) [![GitHub_Stars](https://img.shields.io/github/stars/tauri-apps/tauri?style=social&color=white)](https://github.com/tauri-apps/tauri/stargazers)
 
 - **Repository**: [`tauri-apps/tauri`](https://github.com/tauri-apps/tauri)
 - **License**: MIT / Apache-2.0
@@ -127,7 +127,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 4. 🚀 [Expo](https://expo.dev/) [![GitHub stars](https://img.shields.io/github/stars/expo/expo?style=social&color=white)](https://github.com/expo/expo/stargazers)
+### 4. 🚀 [Expo](https://expo.dev/) [![GitHub_Stars](https://img.shields.io/github/stars/expo/expo?style=social&color=white)](https://github.com/expo/expo/stargazers)
 
 - **Repository**: [`expo/expo`](https://github.com/expo/expo)
 - **License**: MIT
@@ -142,7 +142,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 5. 🎨 [Ionic Framework](https://ionicframework.com/) [![GitHub stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=social&color=white)](https://github.com/ionic-team/ionic-framework/stargazers)
+### 5. 🎨 [Ionic Framework](https://ionicframework.com/) [![GitHub_Stars](https://img.shields.io/github/stars/ionic-team/ionic-framework?style=social&color=white)](https://github.com/ionic-team/ionic-framework/stargazers)
 
 - **Repository**: [`ionic-team/ionic-framework`](https://github.com/ionic-team/ionic-framework)
 - **License**: MIT
@@ -157,7 +157,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 6. 📱 [NativeScript](https://nativescript.org/) [![GitHub stars](https://img.shields.io/github/stars/NativeScript/NativeScript?style=social&color=white)](https://github.com/NativeScript/NativeScript/stargazers)
+### 6. 📱 [NativeScript](https://nativescript.org/) [![GitHub_Stars](https://img.shields.io/github/stars/NativeScript/NativeScript?style=social&color=white)](https://github.com/NativeScript/NativeScript/stargazers)
 
 - **Repository**: [`NativeScript/NativeScript`](https://github.com/NativeScript/NativeScript)
 - **License**: Apache-2.0
@@ -172,7 +172,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 7. 🔷 [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui) [![GitHub stars](https://img.shields.io/github/stars/dotnet/maui?style=social&color=white)](https://github.com/dotnet/maui/stargazers)
+### 7. 🔷 [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui) [![GitHub_Stars](https://img.shields.io/github/stars/dotnet/maui?style=social&color=white)](https://github.com/dotnet/maui/stargazers)
 
 - **Repository**: [`dotnet/maui`](https://github.com/dotnet/maui)
 - **License**: MIT
@@ -187,7 +187,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 8. 🐍 [Kivy](https://kivy.org/) [![GitHub stars](https://img.shields.io/github/stars/kivy/kivy?style=social&color=white)](https://github.com/kivy/kivy/stargazers)
+### 8. 🐍 [Kivy](https://kivy.org/) [![GitHub_Stars](https://img.shields.io/github/stars/kivy/kivy?style=social&color=white)](https://github.com/kivy/kivy/stargazers)
 
 - **Repository**: [`kivy/kivy`](https://github.com/kivy/kivy)
 - **License**: MIT
@@ -202,7 +202,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 9. 🍎 [Framework7](https://framework7.io/) [![GitHub stars](https://img.shields.io/github/stars/framework7io/framework7?style=social&color=white)](https://github.com/framework7io/framework7/stargazers)
+### 9. 🍎 [Framework7](https://framework7.io/) [![GitHub_Stars](https://img.shields.io/github/stars/framework7io/framework7?style=social&color=white)](https://github.com/framework7io/framework7/stargazers)
 
 - **Repository**: [`framework7io/framework7`](https://github.com/framework7io/framework7)
 - **License**: MIT
@@ -217,7 +217,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 10. 🔋 [Capacitor](https://capacitorjs.com/) [![GitHub stars](https://img.shields.io/github/stars/ionic-team/capacitor?style=social&color=white)](https://github.com/ionic-team/capacitor/stargazers)
+### 10. 🔋 [Capacitor](https://capacitorjs.com/) [![GitHub_Stars](https://img.shields.io/github/stars/ionic-team/capacitor?style=social&color=white)](https://github.com/ionic-team/capacitor/stargazers)
 
 - **Repository**: [`ionic-team/capacitor`](https://github.com/ionic-team/capacitor)
 - **License**: MIT
@@ -232,7 +232,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 11. 🐆 [Lynx](https://lynxjs.org/) [![GitHub stars](https://img.shields.io/github/stars/lynx-family/lynx?style=social&color=white)](https://github.com/lynx-family/lynx/stargazers)
+### 11. 🐆 [Lynx](https://lynxjs.org/) [![GitHub_Stars](https://img.shields.io/github/stars/lynx-family/lynx?style=social&color=white)](https://github.com/lynx-family/lynx/stargazers)
 
 - **Repository**: [`lynx-family/lynx`](https://github.com/lynx-family/lynx)
 - **License**: Apache-2.0
@@ -247,7 +247,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 12. 🍱 [Tamagui](https://tamagui.dev/) [![GitHub stars](https://img.shields.io/github/stars/tamagui/tamagui?style=social&color=white)](https://github.com/tamagui/tamagui/stargazers)
+### 12. 🍱 [Tamagui](https://tamagui.dev/) [![GitHub_Stars](https://img.shields.io/github/stars/tamagui/tamagui?style=social&color=white)](https://github.com/tamagui/tamagui/stargazers)
 
 - **Repository**: [`tamagui/tamagui`](https://github.com/tamagui/tamagui)
 - **License**: MIT
@@ -262,7 +262,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 13. 🪟 [Uno Platform](https://platform.uno/) [![GitHub stars](https://img.shields.io/github/stars/unoplatform/uno?style=social&color=white)](https://github.com/unoplatform/uno/stargazers)
+### 13. 🪟 [Uno Platform](https://platform.uno/) [![GitHub_Stars](https://img.shields.io/github/stars/unoplatform/uno?style=social&color=white)](https://github.com/unoplatform/uno/stargazers)
 
 - **Repository**: [`unoplatform/uno`](https://github.com/unoplatform/uno)
 - **License**: Apache-2.0
@@ -277,7 +277,7 @@ The following hosted cloud platforms provide specialized mobile CI/CD pipelines,
 
 ---
 
-### 14. 📦 [Apache Cordova](https://cordova.apache.org/) [![GitHub stars](https://img.shields.io/github/stars/apache/cordova-android?style=social&color=white)](https://github.com/apache/cordova-android/stargazers)
+### 14. 📦 [Apache Cordova](https://cordova.apache.org/) [![GitHub_Stars](https://img.shields.io/github/stars/apache/cordova-android?style=social&color=white)](https://github.com/apache/cordova-android/stargazers)
 
 - **Repository**: [`apache/cordova-android`](https://github.com/apache/cordova-android) / [`apache/cordova-cli`](https://github.com/apache/cordova-cli)
 - **License**: Apache-2.0
@@ -334,7 +334,7 @@ Contributions are warmly welcomed! Help keep this directory accurate, comprehens
 3. 📝 **Add or update entries** in `README.md`:
    - Follow the established markdown formatting, emoji decorations, and column structures.
    - For SaaS tools: include exact starting pricing, verified free tier/trial limits, and company scale metrics.
-   - For Open-Source frameworks: include the official repo link, star count badge, licensing, architecture breakdown, latest release state, and caveats.
+   - For Open-Source frameworks: include the official repo link, Stars_Count badge, licensing, architecture breakdown, latest release state, and caveats.
 4. 🧪 **Validate links and markdown formatting**.
 5. 🚀 **Commit your changes and submit a Pull Request** with a brief summary of additions.
 
